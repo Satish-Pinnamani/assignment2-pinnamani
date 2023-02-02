@@ -16,7 +16,7 @@ I have grown up **watching cricket**. It has been a **part of my life** since ch
 * SRH
 
 ---
-#### Countries that i recommend to visit
+## Countries that i recommend to visit
 These are my top favourite places where i love to explore the food, nature, and their culture.
 
 | Country | Reason to visit | Days |
