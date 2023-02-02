@@ -35,4 +35,24 @@ These are my top favourite places where i love to explore the food, nature, and 
 <br> - *Phyllis Diller*
 
 ---
+## Apply Custom CSS to Admin Area
+
+> How do i add custom css and js files to admin area of wordpress <br>
+ [Stackoverflow](https://stackoverflow.com/questions/18553610/how-do-i-add-custom-css-and-js-files-to-admin-area-of-wordpress)
+
+```
+add_action('admin_head', 'my_custom_fonts');
+
+function my_custom_fonts() {
+  echo '<style>
+    body, td, textarea, input, select {
+      font-family: "Lucida Grande";
+      font-size: 12px;
+    } 
+  </style>';
+}
+```
+[css-tricks](https://css-tricks.com/snippets/wordpress/apply-custom-css-to-admin-area/)
+
+---
 [About Me](AboutMe.md)
