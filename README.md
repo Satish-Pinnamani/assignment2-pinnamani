@@ -26,6 +26,13 @@ These are my top favourite places where i love to explore the food, nature, and 
 | France |  Eiffel Tower | 88 |
 | Australia | Travel | 150 |
 
+---
+## Funny Quotes
+> I love being married. It's so great to find that one special person you want to annoy for the rest of your life
+<br> - *Rita Rudner*
+
+> I want my children to have all the things I couldn't afford. Then I want to move in with them.
+<br> - *Phyllis Diller*
 
 ---
 [About Me](AboutMe.md)
